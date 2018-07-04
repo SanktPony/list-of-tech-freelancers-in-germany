@@ -32,6 +32,7 @@
 | Kevin Eulenberg          | Developer for eCommerce BE / FE  	 | [website](http://frontend.hamburg/) 
 | Simon Ernst              | Senior Ruby Developer / DevOps      | [CV](https://simonernst.com/cv/)    
 | Julian Hinz              | (Senior) Product / Project Manager  | [LinkedIn](https://www.linkedin.com/in/julian-hinz/)    
+| Malte Tietjen            | Strategy / UX / Product Manager     | [website](https://www.tietjen.cc/)    
 
 
 
